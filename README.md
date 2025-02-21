@@ -1,2 +1,2 @@
-# Java-B-sico
+# Java-Basico
 Aprendizado bootcamp Java
